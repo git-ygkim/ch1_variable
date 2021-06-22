@@ -16,6 +16,7 @@ public class Op4 {
 		System.out.println(n1&n2);
 		
 //		    |(OR)		//  0	1	1	1	1	
+		System.out.println(n1|n2);
 		
 	
 	
